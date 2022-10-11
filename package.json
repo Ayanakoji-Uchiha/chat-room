@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayanakoji-Uchiha/chat-room.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ayanakoji-Uchiha/chat-room/issues"
+  },
+  "homepage": "https://github.com/Ayanakoji-Uchiha/chat-room#readme"
 }
